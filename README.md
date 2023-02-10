@@ -1,2 +1,2 @@
 my second README.md
-getting a hang of things
+Getting a hang of things.
